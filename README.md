@@ -7,11 +7,15 @@
 
 **MNIST数据集**
 
-<img src="./pic/mnist1.jpg" alt="mnist1" style="zoom:50%;" /><img src="./pic/mnist2.jpg" alt="mnist2" style="zoom:50%;" />
+![mnist1](./pic/mnist1.jpg)
+
+![mnist2](./pic/mnist2.jpg)
 
 **cifar10数据集**
 
-<img src="./pic/cifar1.jpg" alt="cifar1" style="zoom:50%;" /><img src="./pic/cifar2.jpg" alt="cifar2" style="zoom:50%;" />
+![cifar1](./pic/cifar1.jpg)
+
+![cifar2](./pic/cifar2.jpg)
 
 ### class2
 
@@ -23,19 +27,25 @@
 
 **自定义数据集**
 
-<img src="./pic/1.jpg" alt="1" style="zoom:50%;" /><img src="./pic/2.jpg" alt="2" style="zoom:50%;" />
+![1](./pic/1.jpg)
+
+![2](./pic/2.jpg)
 
 
 
 **数据增强**
 
-<img src="./pic/3.jpg" alt="3" style="zoom:50%;" /><img src="./pic/4.jpg" alt="4" style="zoom:50%;" />
+![3](./pic/3.jpg)
+
+![4](./pic/4.jpg)
 
 
 
 **模型微调**
 
-<img src="./pic/5.jpg" alt="5" style="zoom:50%;" /><img src="./pic/6.jpg" alt="6" style="zoom:50%;" />
+![5](./pic/5.jpg)
+
+![6](./pic/6.jpg)
 
 
 
